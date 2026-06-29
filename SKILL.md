@@ -1,5 +1,6 @@
 ---
 name: soccer-tactical-viz
+source_url: https://github.com/Ddhjx-code/soccer_plan
 description: |
   从世界杯比赛事件数据中提取精彩时刻，生成战术板可视化图 + AI中文解说文案。
   支持单场分析、整届批量处理、实时监控三种模式。
